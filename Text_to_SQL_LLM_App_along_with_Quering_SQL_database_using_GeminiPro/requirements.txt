@@ -1,1 +1,10 @@
-
+google-generativeai
+python-dotenv
+streamlit
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
+tiktoken
+protobuf
