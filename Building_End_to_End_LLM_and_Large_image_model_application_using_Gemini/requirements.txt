@@ -1,1 +1,5 @@
-
+streamlit
+google-generativeai
+python-dotenv
+ibm-watson-machine-learning
+langchain-community
