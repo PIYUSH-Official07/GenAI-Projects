@@ -1,1 +1,6 @@
-
+streamlit
+langchain-community
+google-generativeai
+python-dotenv
+pdf2image
+ibm_watson_machine_learning
